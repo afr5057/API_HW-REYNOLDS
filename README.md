@@ -1,5 +1,4 @@
 # API-REYNOLDS
-Unit 6 homework
 #
 WeatherPy
 #
